@@ -18,7 +18,7 @@ global.gurl = process.env.GURL || "https://whatsapp.com/channel/0029VaeRrcnADTOK
 global.website = process.env.GURL || "https://whatsapp.com/channel/0029VaeRrcnADTOKzivM0S1r";
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://telegra.ph/file/04e09c20e70de180ee319.jpg";
 global.devs = "255673750170";
-global.sudo = process.env.SUDO || "2556738110094";
+global.sudo = process.env.SUDO || "255738110094";
 global.owner = process.env.OWNER_NUMBER || "255738110094";
 global.style = process.env.STYLE || "3";
 global.gdbye = process.env.GOODBYE || "true";
@@ -56,7 +56,7 @@ module.exports = {
   errorChat: process.env.ERROR_CHAT || "",
   KOYEB_API: process.env.KOYEB_API || "false",
   REMOVE_BG_KEY: process.env.REMOVE_BG_KEY || "neLbXXrp8bSDcohnp1CW5UEa",
-  OPENAI_API_KEY: process.env.OPENAI_API_KEY || "",
+  OPENAI_API_KEY: process.env.OPENAI_API_KEY || "sk-proj-wtlA8Q8y00pw0SFuX8iVT3BlbkFJUTlbzlarIdQV3QcgnzDM",
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || "",
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || "",
   antilink_values: process.env.ANTILINK_VALUES || "all",
